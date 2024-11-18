@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 16 Oct 2024 06:32:24 at https://globalactivationsonline.com/activate-now/?gad_source=1&gclid=EAIaIQobChMIhor5iIGTiQMV39TCBB0QKxKUEAMYAiAAEgIcjfD_BwE +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://globalactivationsonline.com/activate-now/?gad_source=1&gclid=EAIaIQobChMIhor5iIGTiQMV39TCBB0QKxKUEAMYAiAAEgIcjfD_BwE -O1 "C:\Users\Padmin\Desktop\tvcode1\entertvcode" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:32:41	Error: 	"Not Found" (404) at link https://globalactivationsonline.com/activate-now/%22https:/globalactivationsonline.com/checkout/ (from https://globalactivationsonline.com/activate-now/?gad_source=1&gclid=EAIaIQobChMIhor5iIGTiQMV39TCBB0QKxKUEAMYAiAAEgIcjfD_BwE)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 25 links scanned, 23 files written (615170 bytes overall) [179228 bytes received at 10542 bytes/sec], 764401 bytes transferred using HTTP compression in 20 files, ratio 20%, 6.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
